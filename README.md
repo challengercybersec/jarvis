@@ -24,4 +24,11 @@ list_of_urls = ['<URL>',
 
 ## 3 Run it
 
-
+-You can create a keyboard shortcut
+```
+Ctrl + ALT + J 
+```
+-Remember to enable sticky keys
+```
+Search bar > Ease of access keyboard settings > Use Sticky Keys > On
+```
